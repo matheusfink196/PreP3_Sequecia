@@ -13,7 +13,7 @@
         android:layout_height="0dp"
         android:layout_marginTop="91dp"
         android:layout_marginBottom="19dp"
-        android:hint="@string/vtTitulo"
+        android:hint="@string/tvTitulo"
         android:textColorHint="@color/black"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/etNtermos"
