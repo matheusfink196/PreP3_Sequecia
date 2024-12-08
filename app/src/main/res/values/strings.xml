@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PreP3_Sequecia</string>
+    <string name="vtTitulo">Cálculo da sequência</string>
+    <string name="etNtermos">Digite número de termos </string>
+    <string name="btnCalcular">Calcular</string>
+
+</resources>
