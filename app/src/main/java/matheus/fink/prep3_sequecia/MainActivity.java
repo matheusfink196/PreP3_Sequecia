@@ -57,8 +57,9 @@ public class MainActivity extends AppCompatActivity {
 
                 etNtermos.setText("");
                 tvValorInv.setText("");
-
-                int pSeq = 1;
+                
+//N sequência: numeros impares são multiplicados por 1 e numeros pares por 2
+                int pSeq = 1; // ponteiro usado na multiplicação
                 int valorH = 0;
                 for (int i = 1; i <= Ntermos; i++) {
                     if (i % 2 == 1) {
